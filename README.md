@@ -1,5 +1,5 @@
 # searching_for_anomalies_task
 
-## выполнение тестового задания по нахождению аномалии в .csv файле
+## execution of a test task to find an anomaly in a .csv file
 
-## использованы параметры, которые содержат информацию об активности пользователя при входе в систему и работе с файлами, которая может быть полезна для выявления аномального поведения
+## used parameters that contain information about user activity when logging in and working with files, which can be useful for detecting anomalous behavior
